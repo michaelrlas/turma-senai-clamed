@@ -8,7 +8,7 @@
 // document.write(isConfirm);
 // document.write(typeof isConfirm);
 //teste repositório git
-
+// teste
 var nome = window.prompt('Digite seu nome');
 var sobrenome = window.prompt('Digite seu sobrenome');
 console.log(nome + ' ' + sobrenome);
